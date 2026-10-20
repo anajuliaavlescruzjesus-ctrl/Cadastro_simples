@@ -8,7 +8,7 @@ while true:
   print("2-fazer login")
   print("3-sair")
 
-opcao =int(input ("escolha uma opção:"))
+opcao =input ("escolha uma opção:")
 if (opção==1)
     print("==========")
     print("===tela de cadastro===")
