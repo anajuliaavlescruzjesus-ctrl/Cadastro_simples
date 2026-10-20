@@ -14,11 +14,11 @@ if (opção==1)
     print("===tela de cadastro===")
     print("==========")
 #se digitar 2, abre a tela de login
-elif (opcao == 2):
+elif(opcao == 2):
     print("==========")
     print("===Tela de Login===")
     print("==========")
-elif ("opcao == 3"):
+elif("opcao == 3"):
     print("Vocẽ está saindo do cadastro, até mais!")
     break 
 else:
